@@ -1,0 +1,12 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "pg": "^8.12.0"
+  }
+}
